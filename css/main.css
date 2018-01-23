@@ -1,0 +1,56 @@
+body {
+	background: white;
+	font -font-family:arial;
+	background-image: url("https://images.unsplash.com/photo-1501696461415-6bd6660c6742?auto=format&fit=crop&w=968&q=80");
+	background-repeat: no-repeat;
+	background-size: cover;
+    
+}
+
+h1{
+	color: black;
+	display: inline;
+	
+}
+p{
+	color: white;
+	
+}
+a{
+	padding:10px;
+	font-size: 20px;
+}
+a:link{
+	color:white;
+}
+a:visited{
+	color:white;
+}
+#myname{
+	font-family: 'Cookie', cursive;
+	
+	font-size: 60px;
+	
+
+	height: 70%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+
+}
+nav ul{
+	display: inline;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	float: right;
+	margin-right: 10px;
+	margin-top:10px;
+	color: white;
+	
+	
+
+}
