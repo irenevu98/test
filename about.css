@@ -13,6 +13,7 @@ ul li{
 }
 .list:link{
 	text-decoration: none;
+	color: black;
 }
 .list:visited{
 	color:black;
